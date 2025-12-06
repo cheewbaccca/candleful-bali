@@ -30,4 +30,5 @@
 - Все могут просматривать подписчиков пользователя
 - У пользователя будут пассивные уведомления - отображение непрочитанных комментариев/подписки от других пользователей
     
-!<img width="1409" height="704" alt="изображение" src="https://github.com/user-attachments/assets/aabde6b2-b60d-4abe-91d9-813f5ba1428b" />
+!<img width="1316" height="705" alt="изображение" src="https://github.com/user-attachments/assets/88bc5d4f-fe73-4cc2-a52b-f16a13853545" />
+
